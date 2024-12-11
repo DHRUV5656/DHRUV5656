@@ -3,21 +3,6 @@ I am a passionate **Software Developer** with expertise in **SQL**, **machine le
 
 I have led projects such as the **Visual Cryptography Authentication System** with **AES encryption** for enhanced banking security. Additionally, I have developed a **Plagiarism Checker** web application and an **Image Background Remover** tool to streamline image processing. I have also worked on the **Intelligent Document Classification and PII Extraction** system, which uses **OCR** and **NER** for secure management of identification documents, as well as the **Financial Literacy App** designed in **Figma** to help teens manage their finances.
 
-### Skills:
-- **Programming Languages**: SQL, Python
-- **Machine Learning (ML), Deep Learning (DL), NLP**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, Gensim
-- **Web Technologies**: HTML, CSS
-- **Data Visualization**: Power BI, Tableau
-- **UI/UX Design**: Figma
-- **Operating Systems**: Windows, Basic Linux
-
-### Recent Projects:
-- **Visual Cryptography Authentication System with AES encryption** (Not uploaded to GitHub yet)
-- [Intelligent Document Classification and PII Extraction (OCR-NER)](https://github.com/DHRUV5656/Intelligent-Document-Classification-and-PII-Extraction-OCR-NER-.git)
-- [Plagiarism Checker](https://github.com/DHRUV5656/Plagiarism-Checker.git)
-- **E-Commerce Sales Dashboard** (Not uploaded to GitHub yet)
-- [Financial Literacy App - Figma Design](https://github.com/DHRUV5656/Figma-Project.git)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhruv-juneja-b6599a1a9)
 
@@ -39,4 +24,23 @@ I have led projects such as the **Visual Cryptography Authentication System** wi
 ![Figma](https://img.shields.io/badge/Figma-pink?style=flat-square&logo=figma)
 ![Power BI](https://img.shields.io/badge/Power%20BI-green?style=flat-square&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau)
+
+### Skills:
+- **Programming Languages**: SQL, Python
+- **Machine Learning (ML), Deep Learning (DL), NLP**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, Gensim
+- **Web Technologies**: HTML, CSS
+- **Data Visualization**: Power BI, Tableau
+- **UI/UX Design**: Figma
+- **Operating Systems**: Windows, Basic Linux
+
+### Recent Projects:
+- **Visual Cryptography Authentication System with AES encryption** (Not uploaded to GitHub yet)
+- [Intelligent Document Classification and PII Extraction (OCR-NER)](https://github.com/DHRUV5656/Intelligent-Document-Classification-and-PII-Extraction-OCR-NER-.git)
+- [Plagiarism Checker](https://github.com/DHRUV5656/Plagiarism-Checker.git)
+- **E-Commerce Sales Dashboard** (Not uploaded to GitHub yet)
+- [Financial Literacy App - Figma Design](https://github.com/DHRUV5656/Figma-Project.git)
+
+
+
+
 
