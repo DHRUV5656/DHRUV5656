@@ -40,7 +40,3 @@ I have led projects such as the **Visual Cryptography Authentication System** wi
 ![Power BI](https://img.shields.io/badge/Power%20BI-green?style=flat-square&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHRUV5656&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV5656&layout=compact&theme=radical)
