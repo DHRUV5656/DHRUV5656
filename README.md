@@ -34,7 +34,7 @@ I have led projects such as the **Visual Cryptography Authentication System** wi
 - **Operating Systems**: Windows, Basic Linux
 
 ### Recent Projects:
-- **Visual Cryptography Authentication System with AES encryption** (https://github.com/DHRUV5656/Visual-Cryptography-Authentication-System.git)
+- [Visual Cryptography Authentication System with AES encryption](https://github.com/DHRUV5656/Visual-Cryptography-Authentication-System.git)
 - [Intelligent Document Classification and PII Extraction (OCR-NER)](https://github.com/DHRUV5656/Intelligent-Document-Classification-and-PII-Extraction-OCR-NER-.git)
 - [Plagiarism Checker](https://github.com/DHRUV5656/Plagiarism-Checker.git)
 - **E-Commerce Sales Dashboard** (Not uploaded to GitHub yet)
